@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Train-booking-app/static/css/main.f00aeaf0.css",
+    "main.js": "/Train-booking-app/static/js/main.e8e7246e.js",
+    "index.html": "/Train-booking-app/index.html",
+    "main.f00aeaf0.css.map": "/Train-booking-app/static/css/main.f00aeaf0.css.map",
+    "main.e8e7246e.js.map": "/Train-booking-app/static/js/main.e8e7246e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00aeaf0.css",
+    "static/js/main.e8e7246e.js"
+  ]
+}

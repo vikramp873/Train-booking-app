@@ -1,0 +1,10 @@
+.hero-container{
+   background-color: #ccc;
+   background-image: url(https://neural-geode-744.web.app/img/train-banner.png);
+   background-position: 50%;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 500px;
+   position: relative;
+   width: 100%;
+}
